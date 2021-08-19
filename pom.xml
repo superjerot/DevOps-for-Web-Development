@@ -375,7 +375,9 @@
                     <url>http://localhost:9999/manager/text</url>
                     <warFile>target/petclinic.war</warFile>
                     <path>/petclinic</path>
-                    </configuration>
+                    <username>admin</username>
+                    <password>cloud@123</password>
+                </configuration>
             </plugin>
 
             <plugin>
